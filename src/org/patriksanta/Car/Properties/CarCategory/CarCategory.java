@@ -1,4 +1,4 @@
-package org.patriksanta.CarCategory;
+package org.patriksanta.Car.Properties.CarCategory;
 
 import java.util.ArrayList;
 import java.util.Collection;
